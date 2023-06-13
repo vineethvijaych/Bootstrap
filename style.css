@@ -1,0 +1,17 @@
+.container1{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+.head1{
+    margin-left: 45%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+
+.col1{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
