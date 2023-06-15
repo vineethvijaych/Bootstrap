@@ -1,0 +1,39 @@
+.col1{
+    border-width:1px ;
+    border-style: solid;
+    color: black;
+    
+}
+.col2{
+    border-width:1px ;
+    border-style: solid;
+    color: black;
+}
+img{
+    max-width:100%;
+   
+}
+.col3{
+    border-width:1px ;
+    border-style: solid;
+    color: black;
+}
+.col4{
+    border-width:1px ;
+    border-style: solid;
+    color: black;
+    padding-top:100px ;
+    padding-bottom: 100px;
+}
+.col5{
+    border-width:1px ;
+    border-style: solid;
+    color: black;
+    padding-top:200px ;
+}
+.col6{
+    border-width:1px ;
+    border-style: solid;
+    color: black;
+    padding-top:200px ;
+}
