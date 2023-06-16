@@ -37,3 +37,17 @@ img{
     color: black;
     padding-top:200px ;
 }
+.col7{
+    border-width:1px ;
+    border-style: solid;
+    color: black;
+    padding-top:100px ;
+    padding-bottom: 100px;
+    
+}
+.col8{
+    border-width:1px ;
+    border-style: solid;
+    color: black;
+}
+
