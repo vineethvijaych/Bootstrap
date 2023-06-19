@@ -1,0 +1,21 @@
+.brdr{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+.clm1{
+    background-color: rgb(255, 115, 0);
+}
+.clm2{
+    background-color: black;
+}
+.clm3{
+    background-color: rgb(255, 115, 0);
+}
+.clm5{
+    background-color: rgb(255, 115, 0);
+    padding-bottom: 140px;
+}
+.clm6{
+    background-color: black;
+}
