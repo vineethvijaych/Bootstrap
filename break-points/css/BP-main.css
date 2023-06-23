@@ -4,6 +4,14 @@
     padding-bottom: 120px;
     
 }
+
+
+.r9{
+    background-color: rgb(128, 134, 140);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
 .r2{
     background-color: rgb(208, 213, 220);
     padding-top: 10px;
@@ -24,8 +32,15 @@ h3{
     
     
 }
+.brdr1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(27, 156, 207);
+    
+}
 .r8{
-    padding-bottom: 91px;
+    
     margin-left: -25px;
 }
 .hdd{
