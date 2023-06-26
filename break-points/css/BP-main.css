@@ -4,7 +4,10 @@
     padding-bottom: 120px;
     
 }
-
+button{
+    width: 100%;
+    background-color: rgb(116, 116, 250);
+}
 
 .r9{
     background-color: rgb(128, 134, 140);
